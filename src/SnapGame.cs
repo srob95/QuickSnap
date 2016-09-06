@@ -13,11 +13,6 @@ namespace CardGames
             SwinGame.BitmapSetCellDetails (cards, 167, 250, 13, 5, 53);      // set the cells in the bitmap to match the cards
 			SwinGame.LoadFontNamed ("GameFont", "Chunkfive.otf", 24);
 		}
-
-		///
-		///	MERGE CONFLICT TEST
-		///
-		/// <summary>
 		/// Respond to the user input -- with requests affecting myGame
 		/// </summary>
 		/// <param name="myGame">The game object to update in response to events.</param>
