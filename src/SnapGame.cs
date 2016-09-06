@@ -18,6 +18,13 @@ namespace CardGames
 		///	MERGE CONFLICT TESTER
 		/// CHECK
 		}
+<<<<<<< HEAD
+=======
+
+		///
+		///	MERGE CONFLICT TEST
+		///
+>>>>>>> 34e00de7355ba831a235b9ab559a2e3fedd9ba29
 		/// <summary>
 		/// Respond to the user input -- with requests affecting myGame
 		/// </summary>
